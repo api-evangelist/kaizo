@@ -1,0 +1,17 @@
+generated: '2026-07-19'
+method: searched
+source: https://kaizo.com/
+probe: false
+url: https://trust.kaizo.com
+platform: Secureframe
+certifications:
+- SOC 2
+- ISO 27001
+- GDPR
+monitoring: Continuously monitored by Secureframe
+evidence:
+- source: https://kaizo.com/
+  claim: SOC 2 certified, ISO 27001 certified, GDPR compliant, and continuously monitored by Secureframe
+- source: https://trust.kaizo.com
+  kind: trust-center
+notes: Trust center is a Secureframe-hosted (JavaScript-rendered) portal; certifications confirmed from the published security statement on kaizo.com. No public bug-bounty / vulnerability-disclosure program or /.well-known/security.txt was found.

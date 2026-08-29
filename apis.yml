@@ -10,6 +10,17 @@ description: 'Kaizo is an AI-powered quality assurance, coaching, and performanc
   certified, ISO 27001 certified, GDPR compliant, and continuously monitored by Secureframe. Surfaced as
   a portfolio company of Partech and added to the API Evangelist network for enrichment.'
 url: https://raw.githubusercontent.com/api-evangelist/kaizo/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

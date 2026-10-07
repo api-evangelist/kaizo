@@ -1,0 +1,43 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.kaizo.com/pricing/
+sources:
+- https://www.kaizo.com/pricing/
+- https://kaizo.com/pricing/
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: false
+note: No numeric prices; page states "All plans are billed per seat. Pricing scales with team size. Talk
+  to us for an exact quote." and explains why no price is shown.
+plan_count: 3
+plans:
+- name: Insight
+  price_text: Book a demo
+  period: none
+  unit: 1–25 seats
+  included_quota: AutoPilot QA on every conversation, Performance metrics and dashboards, AI summaries
+    and on-demand transcription, Coaching, Ready-to-use QA scorecard, 10 custom automated criteria, Gamification
+    and missions, Assignments, calibration and challenges
+- name: Intelligence
+  price_text: Book a demo
+  period: none
+  unit: 26+ seats
+  included_quota: 'Everything in Insight, plus: AI coaching cards, Optimal AI model per capability, 25
+    custom automated QA criteria, Automated BI exports, Extended AI insights, Dedicated CSM and account
+    manager, Annual business reviews'
+- name: Enterprise
+  price_text: Book a demo
+  period: none
+  unit: Unlimited seats
+  included_quota: Everything in Intelligence, plus third-party integrations, custom dashboards, custom
+    data retention, 50 custom automated QA criteria, white-glove onboarding, enterprise support SLAs,
+    audit logs

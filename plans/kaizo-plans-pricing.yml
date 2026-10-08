@@ -41,3 +41,34 @@ plans:
   included_quota: Everything in Intelligence, plus third-party integrations, custom dashboards, custom
     data retention, 50 custom automated QA criteria, white-glove onboarding, enterprise support SLAs,
     audit logs
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models: []
+  units:
+  - seat
+  plans:
+  - name: Insight
+    access: other
+    model: unstated
+    model_how: derived
+    units:
+    - seat
+    periods:
+    - none
+  - name: Intelligence
+    access: other
+    model: unstated
+    model_how: derived
+    units:
+    - seat
+    periods:
+    - none
+  - name: Enterprise
+    access: other
+    model: unstated
+    model_how: derived
+    units:
+    - seat
+    periods:
+    - none

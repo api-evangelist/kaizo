@@ -64,6 +64,94 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kaizo is a company surfaced as a portfolio company of partech and added to the API Evangelist network as a stub for enrichment. Sector: Applicative SaaS. This profile is a lead awaiting the enrichment pipeline.
+Kaizo is an AI-powered quality assurance, coaching, and performance management platform for customer support teams working in Zendesk and Salesforce. Its AutoQA engine automatically scores 100% of support conversations in real time, analyzing sentiment and empathy, generating conversation summaries, surfacing escalation risks, and turning support data into performance insights. AI coaching builds data-driven improvement roadmaps for agents, while dashboards and reporting help support leaders compare team and individual outcomes. Kaizo delivers its product primarily as native apps for the Zendesk Marketplace and Salesforce AppExchange rather than as a public developer API. The company is SOC 2 certified, ISO 27001 certified, GDPR compliant, and continuously monitored by Secureframe. Surfaced as a portfolio company of Partech and added to the API Evangelist network for enrichment.
 
-Backed by: partech — https://kaizo.com/
+**Areas:** Company · Quality Assurance · Customer Service · Contact Center · Performance Management · Artificial Intelligence · Zendesk · Salesforce
+
+## Kaizo on APIs.io
+
+Everything profiled for Kaizo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kaizo/](https://apis.io/providers/kaizo/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kaizo Domain Security](https://apis.io/security/kaizo/kaizo-domain-security/)
+- [Kaizo Trust Center](https://apis.io/security/kaizo/kaizo-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Kaizo Plans Pricing](https://apis.io/plans/kaizo/kaizo-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kaizo.com/)
+- [Pricing](https://kaizo.com/pricing/)
+- [Support](https://support.kaizo.com/hc/en-us)
+- [Blog](https://www.kaizo.com/blog/)
+- [Compliance](https://trust.kaizo.com)
+- [Trust centre](https://trust.kaizo.com)
+- [Terms of service](https://kaizo.com/terms/)
+- [Privacy policy](https://kaizo.com/privacy/)
+- [GitHub](https://github.com/kaizo-com)
+
+## API Evangelist rating
+
+**Kin Score 20.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 69.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kaizo/](https://apis.io/providers/kaizo/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kaizo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kaizo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
